@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Local run output
+rag_run.log
+
+# Chroma persistent storage (if a persist_directory is ever added)
+chroma_db/
